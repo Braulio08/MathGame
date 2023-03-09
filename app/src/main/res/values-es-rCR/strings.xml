@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego Matemático</string>
+    <string name="Welcome">Bienvenido!</string>
+    <string name="addition">Suma</string>
+    <string name="subtraction">Resta</string>
+    <string name="multiplication">Multiplicación</string>
+    <string name="score">Puntaje</string>
+    <string name="life">Vida</string>
+    <string name="time">Tiempo</string>
+    <string name="write_your_answer">Escribe tu respuesta</string>
+    <string name="check">Revisar</string>
+    <string name="next">Siguiente</string>
+    <string name="gameover">Juego terminado</string>
+    <string name="exit">Salir</string>
+    <string name="playagain">Jugar de nuevo</string>
+</resources>
